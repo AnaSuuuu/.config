@@ -1,0 +1,2 @@
+# .config
+Archlinux config file.
