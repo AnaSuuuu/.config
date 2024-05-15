@@ -1,2 +1,2 @@
 # .config
-Archlinux config file.
+Useful tools' config file.
